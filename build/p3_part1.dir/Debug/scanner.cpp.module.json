@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "p3_part1.dir\\Debug\\Scanner.obj",
+            "outputs": [
+                "C:\\Users\\Memo\\source\\repos\\project3_part1_student_files\\build\\p3_part1.dir\\Debug\\vc143.pdb",
+                "p3_part1.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

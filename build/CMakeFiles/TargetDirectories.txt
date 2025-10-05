@@ -1,0 +1,3 @@
+C:/Users/Memo/source/repos/project3_part1_student_files/build/CMakeFiles/p3_part1.dir
+C:/Users/Memo/source/repos/project3_part1_student_files/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Memo/source/repos/project3_part1_student_files/build/CMakeFiles/ZERO_CHECK.dir
