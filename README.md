@@ -2,7 +2,7 @@
 
 ## Student Information:
 
-Guillermo Rojas / Student ID: 008008657 / https://github.com/memo619/Huffman-Trees-and-Coding
+Guillermo Rojas \ Student ID: 008008657 \ https://github.com/memo619/Huffman-Trees-and-Coding
 
 ## Collaboration & Sources:
 
