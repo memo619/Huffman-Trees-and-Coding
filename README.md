@@ -1,4 +1,4 @@
-# Project 2 RecursiveLists
+# Project 3 Huffman Trees and Encoding
 
 ## Student Information:
 
